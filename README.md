@@ -32,7 +32,7 @@
     </ul>
   <h2> Steps taken to archeive this </h2>
   <ul>
-  <li><designing of the user interface/li>
+  <li>designing of the user interface</li>
    <li>Authentification system</li>
     <li>pregnancy calculator bulding</li>
     <li>pregnancy excercise platform</li>
