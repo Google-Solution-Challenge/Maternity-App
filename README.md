@@ -37,7 +37,7 @@
     <li>pregnancy calculator bulding</li>
     <li>pregnancy excercise platform</li>
     <li>planned pregnanacy healthy diet</li>
-    <li>contacts of healt personnel</li>
+    <li>contacts of Medical personnel</li>
     <li>panic mode</li>
     <li>pregnancy blog</li>
   </ul>
